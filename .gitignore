@@ -2,3 +2,4 @@ vendor/
 
 .DS_Store
 .phpdoc/cache
+.phpunit.result.cache
