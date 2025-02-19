@@ -1,4 +1,8 @@
 vendor/
-
 .DS_Store
+
+# Documentation
 .phpdoc/cache
+phpdoc.xml
+docs/
+build/cache
